@@ -1,0 +1,3 @@
+import clean from './utils/clean.mjs';
+
+clean(false, false);
